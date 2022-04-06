@@ -28,7 +28,7 @@ requests = "^2.25.1"
 typer = "^0.3.2"
 pydantic = "^1.8.1"
 PyYAML = "^5.4.1"
-"watermark.py" = { git = "https://github.com/sporaneo/watermark.py" , tag = "0.0.4" }
+"watermark.py" = { git = "https://github.com/sporaneo/watermark.py" , tag = "v0.0.4" }
 
 [tool.poetry.dev-dependencies]
 autopep8 = "^1.5.6"
