@@ -950,8 +950,7 @@ urllib3 = [
     {file = "urllib3-1.26.6.tar.gz", hash = "sha256:f57b4c16c62fa2760b7e3d97c35b255512fb6b59a259730f36ba32ce9f8e342f"},
 ]
 "watermark.py" = [
-    {file = "watermark.py-0.0.3.post3-py3-none-any.whl", hash = "sha256:2e53d4c0347e3f13a1849300a04139fdf5f870ce4994b22f1babbbaee928af1d"},
-    {file = "watermark.py-0.0.3.post3.tar.gz", hash = "sha256:bae2c7714b73b3372196ef4e63f0a9cadad337dbbbecabae10b08e7eb5839994"},
+    {file = "watermark.py-0.0.4.tar.gz", hash = "sha256:6081227e994e41aba2655e85b49fa697d695c9a7df1396e17012e10b0cd3811e"},
 ]
 wrapt = [
     {file = "wrapt-1.12.1.tar.gz", hash = "sha256:b62ffa81fb85f4332a4f609cab4ac40709470da05643a082ec1eb88e6d9b97d7"},
