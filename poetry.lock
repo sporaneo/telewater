@@ -447,7 +447,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 
 [[package]]
 name = "watermark.py"
-version = "0.0.3.post3"
+version = "0.0.4"
 description = "A convenient python wrapper around FFmpeg to apply watermarks to images, gifs, and videos."
 category = "main"
 optional = false
